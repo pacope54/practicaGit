@@ -7,6 +7,8 @@ public class Lib {
 
     public void metodoAlumno1(){
         System.out.println("metodo 1");
+	System.out.println("modificado por Francisco Luis Gómez");// Francisco 
+
     }
 
     public void metodoAlumno2(){
@@ -15,5 +17,7 @@ public class Lib {
 
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
+	//modificaciones Francisco 
+	System.out.println("Francisco inserta esta sentencia");
     }
 }
